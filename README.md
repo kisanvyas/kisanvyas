@@ -4,8 +4,8 @@ Hi there 👋
 - I am currently learning and explore Machine learning concepts with different types of algorithms.
 
 📫 How to reach me ...
-- Connect with me on [[Link Text|www.linkedin.com/in/kishan-vyas-b37179208]]
-- Send a mail on [Link Text]kishanvyas012@gmail.com
+- Connect with me on www.linkedin.com/in/kishan-vyas-b37179208
+- Send a mail on kishanvyas012@gmail.com
 
 <!---
 kisanvyas/kisanvyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
